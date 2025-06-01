@@ -1,4 +1,4 @@
-# GTMP Download Guide (Old, go to https://github.com/the-bl-heretic/gif-to-mp/wiki for updated version)
+# GTMP Download Guide
 
 ## Step 1 Download
 Download the latest release from [here](https://github.com/the-bl-heretic/gif-to-mp)
