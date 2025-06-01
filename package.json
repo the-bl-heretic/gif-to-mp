@@ -16,8 +16,5 @@
     "url": "https://github.com/the-bl-heretic/gif-to-mp"
   },
   "license": "MIT",
-  "dependencies": {
-    // List any UPM dependencies here, e.g.:
-    // "com.unity.textmeshpro": "3.0.6"
-  }
+  "dependencies": {}
 }
