@@ -1,0 +1,23 @@
+{
+  "name": "com.theblheretic.gtmp",
+  "displayName": "GTMP (GIF → MediaPlayer)",
+  "version": "1.0.1",
+  "unity": "2021.3",
+  "description": "A package for Unity 2021.3.16f1 that allows GIFs to be used like videos in the Media Player.",
+  "keywords": [
+    "gif",
+    "media player",
+    "streaming",
+    "textasset"
+  ],
+  "author": {
+    "name": "Charlie Blaize",
+    "email": "chalems@randomsomethings.net",
+    "url": "https://github.com/the-bl-heretic/gif-to-mp"
+  },
+  "license": "MIT",
+  "dependencies": {
+    // List any UPM dependencies here, e.g.:
+    // "com.unity.textmeshpro": "3.0.6"
+  }
+}
