@@ -6,10 +6,10 @@ Download the latest release from [here](https://github.com/the-bl-heretic/gif-to
 ## Step 2 Drag & Drop
 Drop the "Scripts" and "Editor" to the assets folder
 
-## Step 3 Initilization
+## Step 3 Initialization
 After the scripts finish compiling, you will notice a new option in the tool bar; Click it.
 Go to settings and then choose your desired options.
-Then press "Add Componment" on any object with a "Mesh Renderer" and search "Gif" Just press the first option.
+Then press "Add Component" on any object with a "Mesh Renderer" and search "GIF" Just press the first option.
 
 ## Step 4 Using The Script
 Drag and drop your desired GIF into the assets folder. If you see a duplicate file but with ".bytes" at the end. Don't delete it.![image](https://github.com/user-attachments/assets/767f4f66-e5ea-480c-8121-b43c3440d027)
